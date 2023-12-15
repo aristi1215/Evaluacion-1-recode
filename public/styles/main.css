@@ -1,0 +1,17 @@
+:root{
+
+    --morado: #BF1584;
+    --azul: #04ADBF;
+    --amarillo: #F2CA50;
+    --naranja: #F26835;
+    --rojo: #F23D3D;
+
+
+ 
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}

@@ -1,0 +1,71 @@
+
+header {
+    text-align: center;
+    color: white;
+
+}
+.menu-title{
+    color: black;
+    filter: blur(none);
+    padding: 1rem 0;
+    background-color: #A68E29;
+    color: white;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.portada{
+    background-image: url(/public/imgs/Carrito-callejero.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    width: 100%;
+    
+}
+
+body{
+    background-color: #A68E29;
+}
+
+.descrpcion{
+    font-size: 1rem;
+}
+
+.portada h1{
+    position: absolute;
+    font-size: 5rem;
+    filter: blur(0px) !important;
+
+    
+}
+
+#menu {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
